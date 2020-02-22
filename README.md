@@ -18,4 +18,4 @@ python3 bindec.py
 ```
 for python3.
 
-[terminal]("bindec.png")
+![terminal](bindec.png)
